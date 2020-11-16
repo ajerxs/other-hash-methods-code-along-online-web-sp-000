@@ -9,7 +9,5 @@ require 'pry'
 # }
 
 def get_the_min(groceries)
-  nugroceries = []
-  nugroceries << groceries.values
-  nugroceries
+
 end
